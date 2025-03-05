@@ -27,7 +27,7 @@ Welcome to Smart Infrastructure and Cost Optimization – a powerful platform de
 * GitHub Account: To manage your repository and GitHub Actions workflows.
 
 ## CI/CD Pipeline with GitHub Actions
-# This project leverages GitHub Actions to automate the deployment and testing process. The pipeline ensures continuous integration and continuous delivery by automating:
+### This project leverages GitHub Actions to automate the deployment and testing process. The pipeline ensures continuous integration and continuous delivery by automating:
 * Build: Every time you push code to GitHub, GitHub Actions will trigger a build of your application.
 * Test: Tests are run as part of the build process to ensure the stability and functionality of the app.
 * Deploy: Once the build passes successfully, the application is deployed to the AWS EC2 instance via Docker.
